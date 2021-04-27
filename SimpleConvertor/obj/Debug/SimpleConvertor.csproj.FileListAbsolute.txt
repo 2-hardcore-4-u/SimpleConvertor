@@ -1,0 +1,9 @@
+D:\немного мусора\SimpleConvertor\SimpleConvertor\bin\Debug\SimpleConvertor.exe.config
+D:\немного мусора\SimpleConvertor\SimpleConvertor\bin\Debug\SimpleConvertor.exe
+D:\немного мусора\SimpleConvertor\SimpleConvertor\bin\Debug\SimpleConvertor.pdb
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.csprojAssemblyReference.cache
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.Form1.resources
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.Properties.Resources.resources
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.csproj.GenerateResource.cache
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.exe
+D:\немного мусора\SimpleConvertor\SimpleConvertor\obj\Debug\SimpleConvertor.pdb
